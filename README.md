@@ -1,4 +1,4 @@
-# SAT_Map_Website
+# SAT Map Website
 Website hosted in Heroku that contains information regarding the correlation between SAT scores and Zip codes in New York City. 
 The code in this repository constitutes the front end of the website, while the backend can be viewed in the team Github page here: https://github.com/rafidh611/HackTX_Web
 
